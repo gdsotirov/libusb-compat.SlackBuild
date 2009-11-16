@@ -1,0 +1,15 @@
+libusb-compat: libusb-compat (libusb 0.1 compatibility layer)
+libusb-compat:
+libusb-compat: libusb-compat 0.1 is a replacement for libusb-0.1.  It is not
+libusb-compat: an actual implementation of libusb-0.1, but a compatibility
+libusb-compat: layer (or wrapper) which just converts libusb-0.1 calls into
+libusb-compat: their libusb-1.0 equivalents.
+libusb-compat: As the compatibility layer implements the exact same ABI and
+libusb-compat: API, no modifications to existing libusb-0.1 based apps are
+libusb-compat: needed.  You do not even have to recompile them.
+libusb-compat: This compatibility layer is a drop-in replacement.
+libusb-compat:
+libusb-compat: WARNING: As libusb-compat is a replacement, you cannot
+libusb-compat: install it alongside libusb-0.1 on the same system.
+libusb-compat: 
+libusb-compat: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
