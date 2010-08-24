@@ -1,2 +1,2 @@
-glibc-solibs >= 2.9
+glibc-solibs >= 2.11.1
 libusb >= 1.0
