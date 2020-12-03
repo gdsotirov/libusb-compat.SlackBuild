@@ -12,4 +12,4 @@ libusb-compat:
 libusb-compat: WARNING: As libusb-compat is a replacement, you cannot
 libusb-compat: install it alongside libusb-0.1 on the same system.
 libusb-compat: 
-libusb-compat: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libusb-compat: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
